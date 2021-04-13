@@ -29,4 +29,5 @@ Storing my blogs for future reference.
 * [Command line productivity with Fish shell](https://github.com/yankeexe/blogs/blob/master/workflows/Command_line_productivity_with_Fish_shell.md)
 * [Faster Git workflow with Git Aliases](https://github.com/yankeexe/blogs/blob/master/workflows/Faster_Git_workflow_with_Git_Aliases.md)
 * [Mastering Git Stash Workflow](https://github.com/yankeexe/blogs/blob/master/workflows/Mastering_Git_Stash_Workflow.md)
+* [Practical Guide to Git Worktree](https://github.com/yankeexe/blogs/blob/master/workflows/Practical_Guide_to_Git_Worktree.md)
 </details>

@@ -4,8 +4,9 @@ Storing my blogs for future reference.
 
 ### Read my blogs on
 
-1. [dev.to](https://dev.to/yankee)
-2. [Medium](https://medium.com/@yankee.exe)
+1. [yankee.dev](https://yankee.dev)
+2. [dev.to](https://dev.to/yankee)
+3. [Medium](https://medium.com/@yankee.exe)
 
 
 ## Contents

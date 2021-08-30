@@ -14,6 +14,7 @@ Storing my blogs for future reference.
 * [Deploy your Serverless Python function locally with OpenFaas in Kubernetes](https://github.com/yankeexe/blogs/blob/master/k8s/Deploy_your_Serverless_Python_function_locally_with_OpenFaas_in_Kubernetes.md)
 * [How Rolling and Rollback Deployments work in Kubernetes](https://github.com/yankeexe/blogs/blob/master/k8s/How_Rolling_and_Rollback_Deployments_work_in_Kubernetes.md)
 * [Setting up multi-node Kubernetes cluster locally with K3s and Multipass](https://github.com/yankeexe/blogs/blob/master/k8s/Setting_up_multi-node_Kubernetes_cluster_locally_with_K3s_and_Multipass.md)
+* [6_Tools_to_Run_Kubernetes_Locally](https://github.com/yankeexe/blogs/blob/master/k8s/6_Tools_to_Run_Kubernetes_Locally.md)
 
 </details>
 
